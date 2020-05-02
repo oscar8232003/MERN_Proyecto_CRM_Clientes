@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5e49c164e662cd5c48a76a39"},"nombre":"Camisa Vue2","precio":2500,"imagen":"Iqzt9oqB.jpeg","__v":0}
+{"_id":{"$oid":"5e517dd718a53132d08f08fe"},"nombre":"Camiseta de HTML5","precio":5000,"imagen":"qV4XP6s_.jpeg","__v":0}
+{"_id":{"$oid":"5e51807118a53132d08f08ff"},"nombre":"Camiseta React","precio":6900,"imagen":"JtraFK0L.jpeg","__v":0}
+{"_id":{"$oid":"5e59cb944a9fc636e8d9af15"},"nombre":"Camiseta Node","precio":69000,"imagen":"_E1kamFd.jpeg","__v":0}
